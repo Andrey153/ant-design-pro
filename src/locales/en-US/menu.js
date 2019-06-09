@@ -42,4 +42,7 @@ export default {
   'menu.editor.flow': 'Flow Editor',
   'menu.editor.mind': 'Mind Editor',
   'menu.editor.koni': 'Koni Editor',
+
+  'menu.list.persons': 'Persons list',
+  'menu.list.person': 'Person',
 };

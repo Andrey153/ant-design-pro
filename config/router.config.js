@@ -100,6 +100,16 @@ export default [
         name: 'list',
         routes: [
           {
+            path: '/list/persons',
+            name: 'persons',
+            component: './PersonsSpringBootRestExemple/persons',
+          },
+          {
+            path: '/list/person',
+            name: 'person',
+            component: './PersonsSpringBootRestExemple/person',
+          },
+          {
             path: '/list/table-list',
             name: 'searchtable',
             component: './List/TableList',
